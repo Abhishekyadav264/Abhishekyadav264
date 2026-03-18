@@ -1,30 +1,37 @@
-# Hi 👋, I'm Abhishek Yadav
+<h1 align="center">Hey 👋 I'm Abhishek Yadav</h1>
 
-🎯 Aspiring Data Analyst  
-📊 Skilled in SQL, Python, Excel, and Power BI  
-📍 India  
+###
 
-## 📜 Certifications
+<h3 align="center">Aspiring Data Analyst</h3>
 
-- Deloitte Data Analytics Virtual Internship (Forage)  
-- Tata Data Visualization Virtual Internship (Forage
+###
 
-## 🌐 Connect with Me
+<h2 align="left">About me</h2>
 
-- 💼 LinkedIn: https://linkedin.com/in/abhishek-yadav264  
-- 💻 GitHub: https://github.com/Abhishekyadav264  
-- 📧 Email: Abhishekyadavar17@gmail.com  
+###
 
-## 🛠️ Skills
+<p align="left">📊 Transforming raw data into meaningful insights <br>🚀 Data → Insights → Decisions <br>🛠️ SQL | Python | Power BI | Excel  <br>📍 India</p>
 
-**Languages & Analysis**
-- SQL
-- Python
-- Data Analysis
-- Data Cleaning
+###
 
-**Tools & Technologies**
-- Power BI
-- Excel
-- Pandas
-- NumPy
+<h2 align="left">Languages and Tools:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+</div>
+
+###
