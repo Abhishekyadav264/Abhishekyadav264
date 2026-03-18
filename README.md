@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📊 Transforming raw data into meaningful insights <br>🚀 Data → Insights → Decisions <br>🛠️ SQL | Python | Power BI | Excel  <br>📍 India</p>
+<p align="left">📈Aspiring Data Analyst <br>📊 Transforming raw data into meaningful insights <br>🛠️ SQL | Python | Power BI | Excel  <br>📫 How to reach me abhishekyadavar17@gmail.com<br>📍 India</p>
 
 ###
 
@@ -28,6 +28,24 @@
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/abhishek-yadav264" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/ABHISHEKYada264" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/abhishek_r2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
