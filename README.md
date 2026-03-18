@@ -1,15 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Yadav
 
-**Abhishekyadav264/Abhishekyadav264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Skilled in SQL, Python, Excel, and Power BI  
+📍 India  
 
-Here are some ideas to get you started:
+## 📜 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Deloitte Data Analytics Virtual Internship (Forage)  
+- Tata Data Visualization Virtual Internship (Forage
 
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/abhishek-yadav264  
+- 💻 GitHub: https://github.com/Abhishekyadav264  
+- 📧 Email: Abhishekyadavar17@gmail.com  
+
+## 🛠️ Skills
+
+**Languages & Analysis**
+- SQL
+- Python
+- Data Analysis
+- Data Cleaning
+
+**Tools & Technologies**
+- Power BI
+- Excel
+- Pandas
+- NumPy
