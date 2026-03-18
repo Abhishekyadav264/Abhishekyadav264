@@ -2,23 +2,15 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Aspiring Data Analyst</h2>
+<img align="right" height="200" src="https://media.licdn.com/dms/image/v2/C5612AQEBmIxBJJVeZg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1588439714473?e=2147483647&v=beta&t=7-Wx7OqHn4AoCTYKGhaRus2uZUvEEELJGh-_slrr8XM"  />
 
 ###
-
-<br clear="both">
 
 <p align="left">📊 Transforming raw data into meaningful insights <br>🚀 Data → Insights → Decisions <br>🛠️ SQL | Python | Power BI | Excel  <br>📍 India</p>
 
 ###
 
-<img align="right" height="200" src="https://media.licdn.com/dms/image/v2/C5612AQEBmIxBJJVeZg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1588439714473?e=2147483647&v=beta&t=7-Wx7OqHn4AoCTYKGhaRus2uZUvEEELJGh-_slrr8XM"  />
-
-###
-
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
