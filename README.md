@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📈Aspiring Data Analyst <br>📊 Transforming raw data into meaningful insights <br>🛠️ SQL | Python | Power BI | Excel  <br>📫 How to reach me abhishekyadavar17@gmail.com<br>📍 India</p>
+<p align="left">📈Aspiring Data Analyst <br>📊 Transforming raw data into meaningful insights <br>🛠️ SQL | Python | Power BI | Excel  <br>📫 How to reach me abhishekyadavar17@gmail.com<br>📍 India</p> 
 
 ###
 
